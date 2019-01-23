@@ -1,0 +1,31 @@
+h1, h2, h3, h4{
+	font-size: 1.5em;
+	color: #88c0db;
+	#background-color: #395577;
+	font-style: bold;
+	font-family: "Cambria";
+}
+head{
+	font-style: italic;
+	background-color: #395577;
+}
+body{
+	font-size: 1.5em;
+	color: #88c0db;
+	background-color: #395577;
+	font-style: bold;
+	font-family: "Cambria";
+}
+aside{
+	font-size: 1.5em;
+	color: #88c0db;
+	background-color: #395577;
+	font-style: bold;
+	font-family: "Cambria";
+}
+.main-header .logo{
+	font-family: "Georgia", Times, "Times New Roman", serif;
+  font-weight: bold;
+  font-size: 24px;
+  background-color: #004080;
+}
