@@ -1,0 +1,48 @@
+.main-header /*.logo*/{
+	/*font-family: "Cambria", Arial;*/
+	font-weight: bold;
+	font-size: 5px;
+	background-color: #bd534b; /*Azul escuro IFI*/
+	background-image: "logotipo_ifi.png"
+}
+.main-header:hover .logo:hover{
+	font-family: "Cambria",Arial;
+	font-weight: bold;
+	font-size: 8px;
+	background-color: #bd534b; /*Vinho escuro IFI*/
+	background-image: "logotipo_ifi.png";
+}
+.aside{
+	background-color: #bd534b;
+}
+.h1 .h2 .h3{
+	font-family: "Cambria";
+	font-weight: bold;
+	font-size: 8px;
+}
+#selecao .selectize-dropdown .selectize-dropdown-content{
+	font-size: 8px;
+	max-height: 100px;
+	overflow-y: auto;
+	background: ghostwhite;
+
+}
+.item{
+	font-size: 8px;
+}
+#Ta_bela /*.table*/{
+	font-size: 8px;
+	font-weight: italic;
+	font-family: Calibri;
+}
+.main-sidebar{
+	background-color: #c8caf9;
+}
+#categoria{
+	font-size: 8px;
+	font-family: Calibri;
+}
+/*#modo_operacao{
+	font-size: 0.7em;
+	font-family: Calibri;
+}*/

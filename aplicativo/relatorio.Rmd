@@ -1,0 +1,29 @@
+---
+title: "Relatório"
+author: "Relatório"
+date: "2 de setembro de 2019"
+output: 
+  html_notebook: 
+    highlight: tango
+    theme: journal
+runtime: shiny
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+# 2.4 Resultados primário e nominal do Governo Central e do Setor Público Consolidado
+
+Déficit primário do setor público alcança 2,09% do PIB em junho. De acordo com informações do Banco Central, em
+junho, o resultado primário do setor público consolidado, que inclui o Governo Central, os governos regionais e as
+empresas estatais, foi negativo em R$ 12,70 bilhões (equivalentes a -2,09% do PIB). Na composição desse resultado, o
+Governo Central foi responsável por um déficit primário de R$ 12,21 bilhões (2,01% do PIB), enquanto os governos
+regionais e as empresas estatais tiveram déficits de R$ 55 milhões (0,01% do PIB) e R$ 439 milhões (0,07% do PIB),
+respectivamente.
+Em 12 meses, déficit primário do setor público foi de 1,42% do PIB em junho. Nos 12 meses encerrados em junho,
+o resultado primário do setor público consolidado foi negativo em R$ 99,57 bilhões, equivalente a 1,42% do PIB (Gráfico
+9). O Governo Central respondeu por um déficit de R$ 112,12 bilhões no período (1,60% do PIB), enquanto os governos
+regionais tiveram superávit de R$ 9,35 bilhões (0,13% do PIB) e as empresas estatais registraram superávit de R$ 3,19
+bilhões (0,05% do PIB).
+
